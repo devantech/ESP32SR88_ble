@@ -6,7 +6,7 @@ A firmware for the ESP32SR88 that enables control over ble. This firmware define
 
 This module has 3 services defined as detailed below.
 
-## Moule info service
+## Module info service
 UUID - "3d666724-e775-11ea-adc1-0242ac120002"  
 This service provides information about the module itself. It has the following characteristics:  
 
