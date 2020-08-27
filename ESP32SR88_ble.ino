@@ -1,3 +1,8 @@
+/**
+ * A firmwarefor the ESP32SR88 that enables ble communication.
+ * 
+ * James Henderson, 2020.
+ */
 #include <BLEDevice.h>
 #include <BLEUtils.h>
 #include <BLEServer.h>

@@ -1,4 +1,5 @@
 
+#include <Arduino.h>
 #include "input.h"
 
 void setOptoPinModes( int p_mode );

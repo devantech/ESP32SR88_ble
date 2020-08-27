@@ -1,7 +1,7 @@
 #ifndef INPUTS_H
 #define INPUTS_H
 
-#include <Arduino.h>
+
 
 #define OPTO_1                    14
 #define OPTO_2                    16
